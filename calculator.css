@@ -1,0 +1,50 @@
+/* utility classes */
+
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+
+
+  body{
+    background-color: #20454c;
+  }
+  
+  .btn{
+    width: 66px;
+    padding: 20px;
+    margin: 0 1px;
+    border-radius: 9px;
+    cursor: pointer;
+  }
+  
+  .row{
+    margin: 2px 0;
+  }
+  .row input{
+    width: 275px;
+    font-size: 20px;
+      margin: 0;
+      padding: 10px 0px;
+      border: 2px solid black;
+      border-radius: 5px;
+  }
